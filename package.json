@@ -44,7 +44,7 @@
         "memory-cache": "^0.2.0",
         "merge": "^2.1.1",
         "mongoose": "^6.12.8",
-        "passport": "^0.6.0",
+        "passport": "^0.7.0",
         "passport-accesstoken": "^0.1.0",
         "passport-github": "^1.1.0",
         "x-frame-options": "^1.0.0"
@@ -76,7 +76,7 @@
         "karma-phantomjs-launcher": "1.0.4",
         "load-grunt-tasks": "^4.0.0",
         "mkdirp": "0.5.6",
-        "mocha": "^6.2.3",
+        "mocha": "^10.4.0",
         "rewire": "^7.0.0",
         "sass": "^1.39.0",
         "should": "^13.2.3",
